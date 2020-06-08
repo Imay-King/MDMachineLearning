@@ -3,11 +3,15 @@
 ## The example codes for modified autoencoder in paper.
 ### Introduction
 We've put the Alanine 13 data(csv files) in Ala,all the data processing and training codes are in the jupyter Notebook. If you want to try other protein data, please input files to the model via correct format. 
+
+
 Note: We use MDAnalysis(https://www.mdanalysis.org/) to pre-process the dcd/pdb file.
 
 ### Requirements
 Python 3.6
+
 Keras 2.2.4
+
 Tensorflow 1.12.0
 
 ### Reference
